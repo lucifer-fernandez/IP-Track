@@ -1,4 +1,4 @@
-# 🌐 IP to Location 🔍
+# 🌐 IP-Track 🔍
 
 **IP to Location** is a simple but powerful Python-based terminal tool built for Termux and Linux, allowing you to trace the geographic location of any IP address.
 
@@ -29,15 +29,15 @@
 
 ### 🔻 1. Clone the repository:
 ```bash
-git clone https://github.com/lucifer-fernandez/IP_to_Location.git
+git clone https://github.com/lucifer-fernandez/IP-Track.git
 ```
 📁 2. Change directory:
 ```bash
-cd IP_to_Location
+cd IP-Track
 ```
 🚀 3. Run the script:
 ```bash
-python ip.py
+python track.py
 ```
 > The script will install necessary modules, ask you for an IP, then fetch & display the location details.
 
